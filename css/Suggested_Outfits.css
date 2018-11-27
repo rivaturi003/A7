@@ -55,3 +55,7 @@
 .row h1{
   font-size: 60px;
 }
+
+.row{
+  margin-bottom: 50px;
+}
