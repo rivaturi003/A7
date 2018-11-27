@@ -1,0 +1,57 @@
+
+
+.imgcontainer {
+  display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.img-fluid-tops {
+    position: relative;
+    float: left;
+    height: 220px;
+    width: 250px;
+    border: 1px solid #021a40;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+
+.img-fluid-bottoms {
+  position: relative;
+  float: left;
+  height: 220px;
+  width: 250px;
+  border: 1px solid #021a40;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+
+.img-fluid-shoes {
+  position: relative;
+  float: left;
+  height: 220px;
+  width: 250px;
+  border: 1px solid #021a40;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+
+.img-fluid-accessories {
+  position: relative;
+  float: left;
+  height: 220px;
+  width: 250px;
+  border: 1px solid #021a40;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+
+
+.row h1{
+  font-size: 60px;
+}
