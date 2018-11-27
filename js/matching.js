@@ -90,7 +90,13 @@ $(document).ready(function() {
     plusDivs(1,3);
   });
 
+  $('#save').click(function(event) {
+    alert('Planned change');
+  });
 
+  $('#help').click(function(event) {
+    alert('Mix and match different clothing items without the hassle of putting them out of your closet!! Then you can save it for later if you really love the combo')
+  });
 
 
 
