@@ -57,6 +57,18 @@ var complexData = [{
     'url': 'img/nike_pants.jpg',
     'type': 'bottoms',
     'color':'Black'
+  },
+  {
+    'name': 'BlackSlimShirt',
+    'url': 'img/BlackSlimShirt.jpg',
+    'type': 'tops',
+    'color':'Black'
+  },
+  {
+    'name': 'WhiteShirt',
+    'url': 'img/slimshirt.jpg',
+    'type': 'tops',
+    'color':'White'
   }
 
 ]
